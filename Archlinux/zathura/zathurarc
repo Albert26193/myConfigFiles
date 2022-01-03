@@ -1,0 +1,14 @@
+#字体与字号
+set font "Source Code Pro 14"
+
+#只显示文件名，否则显示完整路径
+set window-title-basename true
+
+#增强搜索，实时搜索
+set incremental-search true
+
+#显示右侧进度条
+set show-v-scrollbar true
+
+#粘贴版
+set selection-clipboard clipboard
